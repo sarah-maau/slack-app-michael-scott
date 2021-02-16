@@ -1,0 +1,24 @@
+{
+  "name": "slack-app-michael-scott",
+  "version": "1.0.0",
+  "description": "Une application à ajouter sur Slack qui publie des citations de Michael Scott (The Office)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarah-maau/slack-app-michael-scott.git"
+  },
+  "author": "Sarah Maury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarah-maau/slack-app-michael-scott/issues"
+  },
+  "homepage": "https://github.com/sarah-maau/slack-app-michael-scott#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}

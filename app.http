@@ -1,0 +1,7 @@
+### ROUTE GET
+@protocol= http
+@domainname= localhost
+@port= 3333
+@path=api/quote
+@baseUrl = {{protocol}}://{{domainname}}:{{port}}/{{path}}
+GET {{baseUrl}}
