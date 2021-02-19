@@ -31,11 +31,11 @@ Node est requis pour utiliser ce code, pour le télécharger c'est ici :)
 1. Cloner le repo
 - en utilisant la clé SSH
 ```
-git clone git@github.com:sarah-maau/api-bullshit-generator.git
+git clone git@github.com:sarah-maau/slack-app-michael-scott.git
 ```
 - en utilisant HTTPS
 ```
-git clone https://github.com/sarah-maau/api-bullshit-generator.git
+git clone https://github.com/sarah-maau/slack-app-michael-scott.git
 ```
 
 2. Installer les dépendances
