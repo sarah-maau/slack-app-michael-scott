@@ -12,6 +12,8 @@ Cette dernière est de type :
 `*/<fréquence> cd <chemin> && <commande> >/dev/null 2>&1
 `
 
-> les commandes Crontab peuvent être générées facilement [ici](https://crontab-generator.org/)
+Pour ce projet, je voulais que l'application publie à 9h, du lundi au vendredi. Ma Crontab correspond à : `0 9 * * 1-5 cd <chemin> && node slack.js >/dev/null 2>&1`
+
+> Les commandes Crontab peuvent être générées facilement [ici](https://crontab-generator.org/)
 
 3. Enregistrer et quitter
