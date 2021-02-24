@@ -45,7 +45,7 @@ npm i
 
 3. Créer un fichier .env reprenant les informations fournies dans le document .env.example
 
-NB : dans ce fichier, il est demandé de renseigner `SLACK_WEBHOOK`. Pour ce faire, merci de suivre les étapes du fichier [`slack.md`](docs/slack.md)
+**NB : dans ce fichier, il est demandé de renseigner `SLACK_WEBHOOK`. Pour ce faire, merci de suivre les étapes du fichier [`slack.md`](docs/slack.md)**
 
 4. Une fois l'application Slack créer, lancer le script
 ```
