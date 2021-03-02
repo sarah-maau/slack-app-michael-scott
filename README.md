@@ -26,7 +26,10 @@ Une fois l'application fonctionnelle, il a fallu la connecter à un compte Slack
 
 
 ## Installation
-Node est requis pour utiliser ce code, pour le télécharger c'est ici :)
+
+**Pré-requis**
+- Node.js pour le télécharger c'est [ici](https://nodejs.org/en/download/)
+
 
 1. Cloner le repo
 - en utilisant la clé SSH
@@ -43,7 +46,7 @@ git clone https://github.com/sarah-maau/slack-app-michael-scott.git
 npm i
 ```
 
-3. Créer un fichier .env reprenant les informations fournies dans le document .env.example
+3. Renommer le fichier `.env.example` en `.env` avec vos variables d'environnement
 
 **NB : dans ce fichier, il est demandé de renseigner `SLACK_WEBHOOK`. Pour ce faire, merci de suivre les étapes du fichier [`slack.md`](docs/slack.md)**
 
